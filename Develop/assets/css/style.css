@@ -1,13 +1,12 @@
+/* remove default styling by removing built-in padding and margin */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
+/* end all styling */
 
-body {
-  background-color: #d9dcd6;
-}
-
+/* apply styles to <header> */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -22,10 +21,10 @@ body {
 }
 
 .header h1 .seo {
-  color: #d9dcd6;
+  color: #81837f;
 }
 
-.header div {
+.header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -33,13 +32,19 @@ body {
   font-size: 20px;
 }
 
-.header div ul {
-  list-style-type: none;
+.header nav ul {
+  display: inline;
 }
 
-.header div ul li {
+.header nav ul li {
   display: inline-block;
   margin-left: 25px;
+}
+/*end header */
+
+/* apply styles to <body> */
+body {
+  background-color: #d9dcd6;
 }
 
 a {
@@ -50,7 +55,9 @@ a {
 p {
   font-size: 16px;
 }
+/* end body*/
 
+/* apply styles to hero */
 .hero {
   height: 800px;
   width: 100%;
@@ -59,6 +66,15 @@ p {
   background-size: cover;
   background-position: center;
 }
+/* end hero */
+
+/* apply style to all section titles */
+.section-title {
+}
+
+.aside-title {
+}
+/* end section titles */
 
 .float-left {
   float: left;
