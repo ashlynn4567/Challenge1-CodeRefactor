@@ -34,9 +34,7 @@ You can find the link to my deployed site here: https://ashlynn4567.github.io/Ch
 
 The site appears as below:
 
-```md
-![Horiseon Site Preview](./assets/images/HoriseonPreview.png)
-```
+<img src="./assets/images/HoriseonPreview.png" alt="Horiseon Site Preview">
 
 ## Credits
 
