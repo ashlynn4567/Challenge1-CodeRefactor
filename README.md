@@ -11,7 +11,7 @@ could be found through search engine optimization. They also wanted to reach
 a larger audience of people by improving their site's accessibility functions.
 
 When first looking at the codebase I was given, I found that the site was full
-of "<div> soup". There were many meaningless sections, as well as repetitive
+of "div soup". There were many meaningless sections, as well as repetitive
 CSS style sections. Going through the code methodically, I made sure that
 each section was labeled in a way that search engines could understand and read
 the site's content as well as an end-user. I also added many accesibility
@@ -35,7 +35,7 @@ You can find the link to my deployed site here: https://ashlynn4567.github.io/Ch
 The site appears as below:
 
 ```md
-![Horiseon Site Preview](https://ashlynn4567.github.io/Challenge1-CodeRefactor/assets/images/HoriseonPreview.png)
+![Horiseon Site Preview](./assets/images/HoriseonPreview.png)
 ```
 
 ## Credits
