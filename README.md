@@ -1,6 +1,6 @@
 # Horiseon's Code Refactor
 
-## Welcome to my first coding project.
+### Welcome to my first coding project.
 
 This project features an assignment that mimics an on-the-job ticket.
 
@@ -20,7 +20,7 @@ This is how the main page appears to users.
   <img src="./assets/images/HoriseonPreview.png" alt="Horiseon Site Preview">
 </p>
 
-## View the page here!
+## Deployed Site
 
 <a href="https://ashlynn4567.github.io/Challenge1-CodeRefactor/">Click here to view Horiseon's landing page!<a>
 
