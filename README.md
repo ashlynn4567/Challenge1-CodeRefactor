@@ -1,44 +1,53 @@
 # Horiseon's Code Refactor
 
-## Welcome to my first coding project.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project features an assignment that mimics an on-the-job ticket.
+## Table-of-Contents
 
-Our client, Horiseon, had a mostly-functional, visually appealing website
-that did not quite meet accessiblity standards. As a marketing agency, they
-needed a functional codebase that met accessibility standards so that they
-could be found through search engine optimization. They also wanted to reach
-a larger audience of people by improving their site's accessibility functions.
+- [Description](#description)
+- [Deployed Site](#deployed-site)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Future Development](#future-development)
+- [Credits](#credits)
 
-When first looking at the codebase I was given, I found that the site was full
-of "div soup". There were many meaningless sections, as well as repetitive
-CSS style sections. Going through the code methodically, I made sure that
-each section was labeled in a way that search engines could understand and read
-the site's content as well as an end-user. I also added many accesibility
-functions, such as alt attributes in the image tags and increased color
-contrast in the title of the page.
+## Description
 
-Through the process of refactoring this code, I learned that altering one section
-of HTML can vastly affect your site, even breaking it at times. It is important
-to structure your elements and CSS in a consise and easy-to-understand way.
+This is my first challenge assignment for the University of Oregon Coding Bootcamp 2022. The challenge is to refactor an existing codebase to make it more accessible and organized. This job mimics an on-the-job ticket in which our client, Horiseon, had a mostly-functional, visually appealing website that did not meet accessibility or search engine optimization standards. They needed their codebase to be updated in order to meet these standards, while still keeping the same visual look.
 
-Although the site still looks the same visually, the code has changed drastically
-throughout the course of this project. It helped me appreciate that creating
-readable code from the start will save many programmers time and energy when
-they, too, have to read my code later down the line. Implementing things like
-reusable classes, and comments for readability makes the difference.
+## Deployed Site
 
-## Usage and Features
+Follow [this link](https://ashlynn4567.github.io/Code-Refactor/) to view and use our site!
 
-You can find the link to my deployed site here: https://ashlynn4567.github.io/Challenge1-CodeRefactor/
+## Features
 
-The site appears as below:
+This is how the page appears to viewers. This code is not built with flexbox CSS, so it does not adapt to multiple screen sizes. However, flexbox was outside the scope of the assignment.
 
-<img src="./assets/images/HoriseonPreview.png" alt="Horiseon Site Preview">
+<p align="center">
+<img alt="A screenshot of the Horiseon web page, with a nav bar up top, a hero section, and informational sections and sidebars near the bottom of the page." src="./assets/images/Horiseon-screenshot.jpg"/>
+</p>
+
+## Technologies
+
+- HTML
+- CSS
+
+## Future Development
+
+In the future, I would like to add the following improvements:
+
+- If the client wished, adding flexbox and media queries to this site's CSS would greatly improve the user experience of the website.
+
+I'm always interested in refactoring code to improve it's functionality. If you would like to suggest your own improvements, you can reach our development team at the links below.
+
+- <a href="mailto:ashlynn4567@gmail.com">Email</a>
+- <a href="https://github.com/ashlynn4567">GitHub</a>
+- <a href="www.linkedin.com/in/Ashley-Lynn-Smith">LinkedIn</a>
 
 ## Credits
 
-Used the initial codebase found at this github link: https://github.com/coding-boot-camp/urban-octo-telegram
-by Xandromus with coding-boot-camp.
+This project was built with the help of the University of Oregon's Coding Boot Camp.
 
-Made with ❤️️ by Horiseon Social Solution Services, Inc.
+## Licensing
+
+The application is covered under the following license: [MIT](https://opensource.org/licenses/MIT)
