@@ -17,7 +17,7 @@ This is my first challenge assignment for the University of Oregon Coding Bootca
 
 ## Deployed Site
 
-Follow [this link](https://ashlynn4567.github.io/Code-Refactor/) to view and use our site!
+Follow [this link](https://ashlynn4567.github.io/Code-Refactor/) to view and use my site!
 
 ## Features
 
@@ -38,7 +38,7 @@ In the future, I would like to add the following improvements:
 
 - If the client wished, adding flexbox and media queries to this site's CSS would greatly improve the user experience of the website.
 
-I'm always interested in refactoring code to improve it's functionality. If you would like to suggest your own improvements, you can reach our development team at the links below.
+I'm always interested in refactoring code to improve it's functionality. If you would like to suggest your own improvements, you can reach me at the links below.
 
 - <a href="mailto:ashlynn4567@gmail.com">Email</a>
 - <a href="https://github.com/ashlynn4567">GitHub</a>
