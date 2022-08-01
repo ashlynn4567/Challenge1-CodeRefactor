@@ -13,7 +13,7 @@
 
 ## Description
 
-This is my first challenge assignment for the University of Oregon Coding Bootcamp 2022. The challenge is to refactor an existing codebase to make it more accessible and organized. This job mimics an on-the-job ticket in which our client, Horiseon, had a mostly-functional, visually appealing website that did not meet accessibility or search engine optimization standards. They needed their codebase to be updated in order to meet these standards, while still keeping the same visual look.
+In this project, I challenged myself to refactor an existing codebase to make it more accessible and organized.  This project mimics an on-the-job ticket in which our client, Horiseon, had a mostly-functional, visually appealing website that did not meet accessibility or search engine optimization standards. They needed their codebase to be updated in order to meet these standards, while still keeping the same visual look.
 
 ## Deployed Site
 
